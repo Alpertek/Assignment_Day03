@@ -4,7 +4,7 @@ public class Question10 {
 
 	public static void main(String[] args) {
 		
-		int hour,minute,second;
+		int hour, minute, second;
 		String amOrPm;
 		
 		hour = 2;
