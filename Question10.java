@@ -4,10 +4,13 @@ public class Question10 {
 
 	public static void main(String[] args) {
 		
-		int hour = 2;
-		int minute = 49;
-		int second = 38;
-		String amOrPm = "AM";
+		int hour,minute,second;
+		String amOrPm;
+		
+		hour = 2;
+		minute = 49;
+		second = 38;
+		amOrPm = "AM";
 		
 		System.out.println(hour + ":" + minute + ":" + second +" "+ amOrPm);
 
